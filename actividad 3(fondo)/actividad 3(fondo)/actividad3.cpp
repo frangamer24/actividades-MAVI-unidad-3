@@ -7,7 +7,7 @@ using namespace sf;
 int main()
 {
 	Texture texturafondo;
-	string fondoruta = "C:/SFML/imagenes/fondo.jpg";
+	string fondoruta = "fondo.jpg";
 
 	if (!texturafondo.loadFromFile(fondoruta))
 	{
