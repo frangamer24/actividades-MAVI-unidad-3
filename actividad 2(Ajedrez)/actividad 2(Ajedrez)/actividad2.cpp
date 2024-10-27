@@ -8,8 +8,8 @@ int main()
 	Texture colornegro, colorblanco;
 	Sprite sprite;
 
-	string lugarblanco = "C:/SFML/imagenes/chessw.png";
-	string lugarnegro = "C:/SFML/imagenes/chessb.png";
+	string lugarblanco = "chessw.png";
+	string lugarnegro = "chessb.png";
 
 	colornegro.loadFromFile(lugarnegro);
 	colorblanco.loadFromFile(lugarblanco);
