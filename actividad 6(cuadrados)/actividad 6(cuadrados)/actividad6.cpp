@@ -11,7 +11,7 @@ int main()
 	Texture textura[4];
 	Sprite sprites[4];
 
-	std::string archivos[] = { "C:/SFML/imagenes/cuad_red.png", "C:/SFML/imagenes/cuad_yellow.png", "C:/SFML/imagenes/cuad_blue.png", "C:/SFML/imagenes/chessb.png" };
+	std::string archivos[] = { "cuad_red.png", "cuad_yellow.png", "cuad_blue.png", "chessb.png" };
 	for (int i = 0; i < 4; i++)
 	{
 		if (!textura[i].loadFromFile(archivos[i])) 
