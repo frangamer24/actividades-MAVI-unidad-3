@@ -7,7 +7,7 @@ int main()
 	RenderWindow ventana(VideoMode(800, 600), "sirculo azul en el medio");
 
 	Texture colorazul;
-	colorazul.loadFromFile("C:/SFML/imagenes/CIRCULO AZUL.png");
+	colorazul.loadFromFile("CIRCULO AZUL.png");
 
 	Sprite sprite;
 	sprite.setTexture(colorazul);
