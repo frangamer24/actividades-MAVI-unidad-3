@@ -12,7 +12,7 @@ Sprite circulorojo3;
 
 int main()
 {
-	circulo.loadFromFile("C:/SFML/imagenes/rcircle.png");
+	circulo.loadFromFile("rcircle.png");
 
 	circulorojo.setTexture(circulo);
 	circulorojo1.setTexture(circulo);
