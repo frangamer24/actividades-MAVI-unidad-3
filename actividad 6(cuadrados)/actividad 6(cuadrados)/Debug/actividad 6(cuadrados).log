@@ -1,0 +1,4 @@
+﻿  actividad6.cpp
+C:\SFML\actividades mavi unidad 3\actividad 6(cuadrados)\actividad 6(cuadrados)\actividad6.cpp(2,9): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\SFML\actividades mavi unidad 3\actividad 6(cuadrados)\actividad 6(cuadrados)\actividad6.cpp(28,30): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  actividad 6(cuadrados).vcxproj -> C:\SFML\actividades mavi unidad 3\actividad 6(cuadrados)\Debug\actividad 6(cuadrados).exe
