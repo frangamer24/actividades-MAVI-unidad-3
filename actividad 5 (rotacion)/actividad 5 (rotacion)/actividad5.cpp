@@ -10,7 +10,7 @@ int main()
 
 	Texture textura;
 
-	if (!textura.loadFromFile("C:/SFML/imagenes/cuad_yellow.png"))
+	if (!textura.loadFromFile("cuad_yellow.png"))
 	{
 		return 0;
 	}
