@@ -12,7 +12,7 @@ int main() {
 
     RenderWindow window(VideoMode(800, 600), "juego de plataformas. ");
 
-    string imagen = "C:/SFML/imagenes/plataforma.jpg";
+    string imagen = "plataforma.jpg";
     plataforma.loadFromFile(imagen);
 
     float anchoWIDTH = plataforma.getSize().x;
