@@ -1,0 +1,12 @@
+﻿  actividad4.cpp
+C:\SFML\actividades mavi unidad 3\actividad 4(plataforma)\actividad 4(plataforma)\actividad4.cpp(18,22): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\SFML\actividades mavi unidad 3\actividad 4(plataforma)\actividad 4(plataforma)\actividad4.cpp(18,22): warning C4244:         with
+C:\SFML\actividades mavi unidad 3\actividad 4(plataforma)\actividad 4(plataforma)\actividad4.cpp(18,22): warning C4244:         [
+C:\SFML\actividades mavi unidad 3\actividad 4(plataforma)\actividad 4(plataforma)\actividad4.cpp(18,22): warning C4244:             T=unsigned int
+C:\SFML\actividades mavi unidad 3\actividad 4(plataforma)\actividad 4(plataforma)\actividad4.cpp(18,22): warning C4244:         ]
+C:\SFML\actividades mavi unidad 3\actividad 4(plataforma)\actividad 4(plataforma)\actividad4.cpp(19,24): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\SFML\actividades mavi unidad 3\actividad 4(plataforma)\actividad 4(plataforma)\actividad4.cpp(19,24): warning C4244:         with
+C:\SFML\actividades mavi unidad 3\actividad 4(plataforma)\actividad 4(plataforma)\actividad4.cpp(19,24): warning C4244:         [
+C:\SFML\actividades mavi unidad 3\actividad 4(plataforma)\actividad 4(plataforma)\actividad4.cpp(19,24): warning C4244:             T=unsigned int
+C:\SFML\actividades mavi unidad 3\actividad 4(plataforma)\actividad 4(plataforma)\actividad4.cpp(19,24): warning C4244:         ]
+  actividad 4(plataforma).vcxproj -> C:\SFML\actividades mavi unidad 3\actividad 4(plataforma)\Debug\actividad 4(plataforma).exe
